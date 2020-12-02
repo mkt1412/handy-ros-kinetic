@@ -1,0 +1,8 @@
+prefix=/home/chao/catkin_ws/src/cmake-build-debug/devel
+
+Name: handy_experiment
+Description: Description of handy_experiment
+Version: 0.5.7
+Cflags: 
+Libs: -L/home/chao/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

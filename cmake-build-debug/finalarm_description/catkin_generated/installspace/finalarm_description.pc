@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: finalarm_description
+Description: Description of finalarm_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

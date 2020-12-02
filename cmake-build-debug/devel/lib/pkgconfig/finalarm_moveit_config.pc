@@ -1,0 +1,8 @@
+prefix=/home/chao/catkin_ws/src/cmake-build-debug/devel
+
+Name: finalarm_moveit_config
+Description: Description of finalarm_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/chao/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 

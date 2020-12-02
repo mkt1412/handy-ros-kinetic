@@ -1,0 +1,64 @@
+/snap/clion/73/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chao/catkin_ws/src
+-- Using CATKIN_DEVEL_PREFIX: /home/chao/catkin_ws/src/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/chao/catkin_ws/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/chao/catkin_ws/devel;/opt/ros/kinetic
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/chao/catkin_ws/src/cmake-build-debug/test_results
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.14
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 10 packages in topological order:
+-- ~~  - dynamixel_driver
+-- ~~  - dynamixel_motor (metapackage)
+-- ~~  - dynamixel_tutorials
+-- ~~  - dynamixel_controllers
+-- ~~  - dynamixel_msgs
+-- ~~  - finalarm_description
+-- ~~  - finalarm_gazebo
+-- ~~  - finalarm_control
+-- ~~  - finalarm_moveit_config
+-- ~~  - handy_experiment
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'dynamixel_driver'
+-- ==> add_subdirectory(dynamixel_motor/dynamixel_driver)
+-- +++ processing catkin metapackage: 'dynamixel_motor'
+-- ==> add_subdirectory(dynamixel_motor/dynamixel_motor)
+-- +++ processing catkin package: 'dynamixel_tutorials'
+-- ==> add_subdirectory(dynamixel_motor/dynamixel_tutorials)
+-- +++ processing catkin package: 'dynamixel_controllers'
+-- ==> add_subdirectory(dynamixel_motor/dynamixel_controllers)
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- dynamixel_controllers: 0 messages, 9 services
+-- +++ processing catkin package: 'dynamixel_msgs'
+-- ==> add_subdirectory(dynamixel_motor/dynamixel_msgs)
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- dynamixel_msgs: 3 messages, 0 services
+-- +++ processing catkin package: 'finalarm_description'
+-- ==> add_subdirectory(finalarm_description)
+-- +++ processing catkin package: 'finalarm_gazebo'
+-- ==> add_subdirectory(finalarm_gazebo)
+-- +++ processing catkin package: 'finalarm_control'
+-- ==> add_subdirectory(finalarm_control)
+-- +++ processing catkin package: 'finalarm_moveit_config'
+-- ==> add_subdirectory(finalarm_moveit_config)
+-- +++ processing catkin package: 'handy_experiment'
+-- ==> add_subdirectory(handy_experiment)
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   date_time
+--   thread
+--   chrono
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chao/catkin_ws/src/cmake-build-debug

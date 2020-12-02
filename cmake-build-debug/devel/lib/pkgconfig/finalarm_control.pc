@@ -1,0 +1,8 @@
+prefix=/home/chao/catkin_ws/src/cmake-build-debug/devel
+
+Name: finalarm_control
+Description: Description of finalarm_control
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/chao/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 

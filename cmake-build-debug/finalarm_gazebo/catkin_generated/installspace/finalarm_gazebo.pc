@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: finalarm_gazebo
+Description: Description of finalarm_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

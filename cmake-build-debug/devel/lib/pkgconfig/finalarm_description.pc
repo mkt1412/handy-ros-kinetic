@@ -1,0 +1,8 @@
+prefix=/home/chao/catkin_ws/src/cmake-build-debug/devel
+
+Name: finalarm_description
+Description: Description of finalarm_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/chao/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 

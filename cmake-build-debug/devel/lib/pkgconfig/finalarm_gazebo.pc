@@ -1,0 +1,8 @@
+prefix=/home/chao/catkin_ws/src/cmake-build-debug/devel
+
+Name: finalarm_gazebo
+Description: Description of finalarm_gazebo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/chao/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 
